@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable-anydpi/fontsize_icon.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_sticky_note_2_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_sync_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/activity_add_note.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/activity_main.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/activity_note.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/content_add_note.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/content_main.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/content_note.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/email_change_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/fragment_first.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/fragment_second.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/fragment_theme.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/fragment_typography.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/letter_spacing_dialog.xml" value="0.36186594202898553" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/line_height_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/line_width_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/name_change_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/nav_header.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/note_layout.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/password_change_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/profile_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/layout/sign_up_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/menu/close_addnote.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/menu/day_night_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/menu/menu.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/menu/nav_menu.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/menu/options_menu.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/PC/Desktop/NoteApp-main/app/src/main/res/menu/search_bar.xml" value="0.36102564102564105" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/activity_add_note.xml" value="0.33" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/activity_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/activity_profile1.xml" value="0.33" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/content_add_note.xml" value="0.1" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/content_add_note2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/content_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/content_profile1.xml" value="0.33" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/profile_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/layout/sign_up_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/menu/close_addnote.xml" value="0.203125" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/menu/menu.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/jingw/Desktop/NoteApp-latestUpdate/NoteApp-72a3ca7979d50fd52e2afa80269aa85b35b827c9/app/src/main/res/menu/nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
